@@ -1,0 +1,10 @@
+
+*.jar
+
+/*.jar
+/.idea
+*.class
+/*.idea
+
+
+
